@@ -14,7 +14,7 @@
 
 ### Tareas 
 - [ ] Investigar conexiones de la placa. Entradas, salidas compoentes principales
- - [ ] Entradas y Salidas 
+  - [ ] Entradas y Salidas 
 - [ ] Conseguir datasheets
 - [ ] Hacer calculos
 - [ ] 
